@@ -1,8 +1,21 @@
-# React + Vite
+# 리액트 주간과제
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### 목차
+1. 리액트에서 테일윈드를 사용하기 위한 환경 구성
+2. 목표로 삼은 컴포넌트
+3. 부족한 점
+===
+#### 리액트에서 테일윈드를 사용하기 위한 환경구성
+https://tailwindcss.com/docs/guides/vite
 
-Currently, two official plugins are available:
+#### 목표로 삼은 컴포넌트 
+![image](https://github.com/vHwav/my-project/assets/148796897/479cb88c-f5a8-4ada-817e-12a8261b4093)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+실제 작업한 컴포넌트
+![image](https://github.com/vHwav/my-project/assets/148796897/7e22468f-4622-4885-a97a-c746de442453)
+
+
+#### 부족한 점
+
+처음에 환경구성에서 공식문서를 찾아보지 않았다가 시간을 너무 잡아먹어서 정작 컴포넌트를 구성하고 배치할 시간이 없었던 게 아쉽다.
+반복적인 컴포넌트를 구성할 때 mqp 메서드를 사용하면 된다는 것을 알았고, 이걸 더 활용해서 작업에 보충해볼 예정이다.
